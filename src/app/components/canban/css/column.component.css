@@ -1,0 +1,6 @@
+.column{
+    background-color: azure;
+    min-height: 70vh;
+    word-wrap: break-word;
+    border: 2px solid black;
+}
